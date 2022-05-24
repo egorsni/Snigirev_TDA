@@ -1,0 +1,5 @@
+data_copies/X_train_diagrams
+datasets/mnist_train.csv
+EDT_data/X_test_diagrams
+EDT_data/X_train_diagrams
+direction_data/X_train_diagrams
